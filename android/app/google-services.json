@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631136321872",
+    "project_id": "archeo-assist",
+    "storage_bucket": "archeo-assist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631136321872:android:3412621b7a86912376ac55",
+        "android_client_info": {
+          "package_name": "com.example.archeoassist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZf088sQnE2T1WxJfGeoGkpyQEPUvNi5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
